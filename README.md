@@ -8,4 +8,9 @@
 ![Jquery](https://img.shields.io/badge/Jquery-gray?style=for-the-badge&logo=Jquery)
 ![Gulp](https://img.shields.io/badge/Gulp-gray?style=for-the-badge&logo=gulp)
 
-<strong> НЕ ДОДЕЛАНО </strong>
+# НЕ ДОДЕЛАНО
+- Починить ссылки
+- Более приятный моб.дизайн
+- Добавить функцию скролла
+- Анимации
+- Валидация инпутов
